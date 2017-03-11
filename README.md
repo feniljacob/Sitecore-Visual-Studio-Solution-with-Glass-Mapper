@@ -1,2 +1,2 @@
 # hackathon
-Sietcore Hackathon
+Sitecore-Visual-Studio-Solution-with-Glass-Mapper
